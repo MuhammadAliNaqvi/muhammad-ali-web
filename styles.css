@@ -1,0 +1,75 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+}
+
+body {
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.smedia {
+      font-size: 18px;
+}
+
+.lcolor1 {
+      color: rgb(0, 62, 119);
+}
+
+.lcolor2 {
+	color:black;
+}
+
+.lcolor3 {
+      color: rgb(255, 38, 0);
+}
+
+footer {
+     text-align: center;
+    font-size: 12px;
+}
+
+.color1 {
+    color: wheat;
+}
+
+.color2 {
+    color: green;
+}
+
+/* Navbar */
+
+.ulist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.list {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+.list:last-child {
+  border-right: none;
+}
+
+.list a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.list a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
