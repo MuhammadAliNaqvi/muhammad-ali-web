@@ -7,6 +7,7 @@ h1 {
 
 body {
     background-image: url(https://wallup.net/wp-content/uploads/2016/01/272946-Minecraft-video_games-pixels.jpg);
+    background-repeat: no-repeat;
     background-color: green;
     font-family: Arial, Helvetica, sans-serif;
 }
