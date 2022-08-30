@@ -42,6 +42,11 @@ footer {
 
 .color2 {
     color: green;
+    background-color: wheat;
+}
+
+.rtext {
+      color: red;
 }
 
 /* Navbar */
